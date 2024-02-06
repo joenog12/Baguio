@@ -1,0 +1,15 @@
+D:\Baguio\Baguio Activity2\act2\act2\bin\Debug\net8.0\act2.exe
+D:\Baguio\Baguio Activity2\act2\act2\bin\Debug\net8.0\act2.deps.json
+D:\Baguio\Baguio Activity2\act2\act2\bin\Debug\net8.0\act2.runtimeconfig.json
+D:\Baguio\Baguio Activity2\act2\act2\bin\Debug\net8.0\act2.dll
+D:\Baguio\Baguio Activity2\act2\act2\bin\Debug\net8.0\act2.pdb
+D:\Baguio\Baguio Activity2\act2\act2\obj\Debug\net8.0\act2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Baguio\Baguio Activity2\act2\act2\obj\Debug\net8.0\act2.AssemblyInfoInputs.cache
+D:\Baguio\Baguio Activity2\act2\act2\obj\Debug\net8.0\act2.AssemblyInfo.cs
+D:\Baguio\Baguio Activity2\act2\act2\obj\Debug\net8.0\act2.csproj.CoreCompileInputs.cache
+D:\Baguio\Baguio Activity2\act2\act2\obj\Debug\net8.0\act2.sourcelink.json
+D:\Baguio\Baguio Activity2\act2\act2\obj\Debug\net8.0\act2.dll
+D:\Baguio\Baguio Activity2\act2\act2\obj\Debug\net8.0\refint\act2.dll
+D:\Baguio\Baguio Activity2\act2\act2\obj\Debug\net8.0\act2.pdb
+D:\Baguio\Baguio Activity2\act2\act2\obj\Debug\net8.0\act2.genruntimeconfig.cache
+D:\Baguio\Baguio Activity2\act2\act2\obj\Debug\net8.0\ref\act2.dll
