@@ -1,0 +1,15 @@
+D:\BAGUIO\Baguio\ActivityQuiz\ActivityQuiz\bin\Debug\net8.0\ActivityQuiz.exe
+D:\BAGUIO\Baguio\ActivityQuiz\ActivityQuiz\bin\Debug\net8.0\ActivityQuiz.deps.json
+D:\BAGUIO\Baguio\ActivityQuiz\ActivityQuiz\bin\Debug\net8.0\ActivityQuiz.runtimeconfig.json
+D:\BAGUIO\Baguio\ActivityQuiz\ActivityQuiz\bin\Debug\net8.0\ActivityQuiz.dll
+D:\BAGUIO\Baguio\ActivityQuiz\ActivityQuiz\bin\Debug\net8.0\ActivityQuiz.pdb
+D:\BAGUIO\Baguio\ActivityQuiz\ActivityQuiz\obj\Debug\net8.0\ActivityQuiz.GeneratedMSBuildEditorConfig.editorconfig
+D:\BAGUIO\Baguio\ActivityQuiz\ActivityQuiz\obj\Debug\net8.0\ActivityQuiz.AssemblyInfoInputs.cache
+D:\BAGUIO\Baguio\ActivityQuiz\ActivityQuiz\obj\Debug\net8.0\ActivityQuiz.AssemblyInfo.cs
+D:\BAGUIO\Baguio\ActivityQuiz\ActivityQuiz\obj\Debug\net8.0\ActivityQuiz.csproj.CoreCompileInputs.cache
+D:\BAGUIO\Baguio\ActivityQuiz\ActivityQuiz\obj\Debug\net8.0\ActivityQuiz.sourcelink.json
+D:\BAGUIO\Baguio\ActivityQuiz\ActivityQuiz\obj\Debug\net8.0\ActivityQuiz.dll
+D:\BAGUIO\Baguio\ActivityQuiz\ActivityQuiz\obj\Debug\net8.0\refint\ActivityQuiz.dll
+D:\BAGUIO\Baguio\ActivityQuiz\ActivityQuiz\obj\Debug\net8.0\ActivityQuiz.pdb
+D:\BAGUIO\Baguio\ActivityQuiz\ActivityQuiz\obj\Debug\net8.0\ActivityQuiz.genruntimeconfig.cache
+D:\BAGUIO\Baguio\ActivityQuiz\ActivityQuiz\obj\Debug\net8.0\ref\ActivityQuiz.dll
